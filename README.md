@@ -20,14 +20,6 @@ This skill is important to developed for me because investigators need to observ
 Research skills are another important part of this project because I need to find accurate information about CSI. When researching online or anywhere else, I will look into different types of websites/articles the technology CSI investigators use.I will read titles and descriptions that will match my topic. I will compare information from different websites to be sure it can be reliable. Improving my research skills will help me find useful,reliable information to understand CSI more clearly.
 
 
+## Summary
+overall, I'm really eager to make a website about technology of CSI and how it can technology can be a huge impact. It all started from being inspired from a TV show to researching further into the topic. I will have a career in CSI and develope better skills.
 
-* [Entry 1](blog/entry01.md)
-* [Entry 2](blog/entry02.md)
-* [Entry 3](blog/entry03.md)
-* [Entry 4](blog/entry04.md)
-* [Entry 5](blog/entry05.md)
-* [Entry 6](blog/entry06.md)
-* [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
