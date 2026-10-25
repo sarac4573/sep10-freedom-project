@@ -22,4 +22,4 @@ Research skills are another important part of this project because I need to fin
 
 
 ## Summary
-overall, I'm really eager to make a website about technology of CSI and how it can technology can be a huge impact. It all started from being inspired from a TV show to researching further into the topic. I will have a career in CSI and develope better skills.
+Overall, I'm really eager to make a website about technology of CSI and how it can technology can be a huge impact. It all started from being inspired from a TV show to researching further into the topic. I will have a career in CSI and develope better skills.
