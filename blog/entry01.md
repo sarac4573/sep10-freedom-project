@@ -16,7 +16,7 @@ The first step of the engineering design process is defining what the problem is
 
 Throughout this research I learned to developed 2 skills which was observating and research skills.
 #### Observating 
-This skill is important to developed for me because investigators need to observe every detail that could solve a crime. This can also be helpful for observating websites and articles about my topic because it can help me find more information. This skill can also help me in my EDP because I can carefully observe what changes or improvements I can add just incase one of the steps doesn't workout like how I want too. 
+This skill is important to develope for me because investigators need to observe every detail that could solve a crime. This can also be helpful for observating websites and articles about my topic because it can help me find more information. This skill can also help me in my EDP because I can carefully observe what changes or improvements I can add just incase one of the steps doesn't workout like how I want too. 
 #### Research skills 
 Research skills are another important part of this project because I need to find accurate information about CSI. When researching online or anywhere else, I will look into different types of websites/articles the technology CSI investigators use.I will read titles and descriptions that will match my topic. I will compare information from different websites to be sure it can be reliable. Improving my research skills will help me find useful,reliable information to understand CSI more clearly.
 
