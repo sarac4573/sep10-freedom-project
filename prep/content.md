@@ -1,5 +1,5 @@
 # Content
-Topic: **CSI (Crime Scene Investigator) **
+Topic: CSI (Crime Scene Investigator) 
 
 ## Overview/Introduction/Context
 * Text
