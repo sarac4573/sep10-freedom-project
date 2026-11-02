@@ -19,5 +19,9 @@ Topic: CSI (Crime Scene Investigator)
   * [image text](image URL)
 
 ## Part B: possible future technology
-* https://csiforensic.com/?srsltid=AYCX9vIVhzJPRPoyzFXo7vn4WEv8_h8ZCXm_I7Je-jZIl18vI4nnZUFe
-  * Detail
+* https://www.csitech.com/crime-intelligence/csi/ 
+  * Collect/records physical evidence
+  * Crime scene data recording
+  * Information sharing
+  * Hardware Integration and evidence processing
+  * Crime scene investigation procedures 
