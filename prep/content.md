@@ -24,4 +24,5 @@ Topic: CSI (Crime Scene Investigator)
   * Crime scene data recording
   * Information sharing
   * Hardware Integration and evidence processing
-  * Crime scene investigation procedures 
+  * Crime scene investigation procedures
+  * To use you have to have your agency approve 
