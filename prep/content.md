@@ -8,10 +8,26 @@ Topic: CSI (Crime Scene Investigator)
 ## Part A: existing technology
 
 ##### Software
-* Tech
+* Search: crime scene software webs
 * https://www.crimescene.net/ 
-  * Detail
-  * [image text](image URL)
+  * gives a chance to experience CSI
+  * just a game
+Search : CSI software programs 
+  * * https://www.csitech.com/crime-intelligence/csi/ 
+  * Collect/records physical evidence
+  * Crime scene data recording
+  * Information sharing
+  * Hardware Integration and evidence processing
+  * Crime scene investigation procedures
+  * To use you have to have your agency approve
+  * Search : Software crime scene
+  * https://geospatial.trimble.com/en/industries/public-safety-and-forensics/crime-scene-investigation
+  * Shows a demo
+  * In order to buy you have to have a work subcription or a dealer locator
+  * Has resources
+  * Creates 2d or 3d crime scenes
+  * Virtual crime
+  * Shows options for products like software or hardware.
 
 ##### Hardware
 * Tech
@@ -19,10 +35,4 @@ Topic: CSI (Crime Scene Investigator)
   * [image text](image URL)
 
 ## Part B: possible future technology
-* https://www.csitech.com/crime-intelligence/csi/ 
-  * Collect/records physical evidence
-  * Crime scene data recording
-  * Information sharing
-  * Hardware Integration and evidence processing
-  * Crime scene investigation procedures
-  * To use you have to have your agency approve 
+
