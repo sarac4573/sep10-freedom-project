@@ -11,16 +11,16 @@ Topic: CSI (Crime Scene Investigator)
 * https://www.crimescene.net/ 
   * gives a chance to experience CSI
   * just a game
-  *  * Search : CSI software programs
- * https://www.csitech.com/crime-intelligence/csi/ 
+* Search : CSI software programs
+* https://www.csitech.com/crime-intelligence/csi/ 
   * Collect/records physical evidence
   * Crime scene data recording
   * Information sharing
   * Hardware Integration and evidence processing
   * Crime scene investigation procedures
   * To use you have to have your agency approve
-  * Search : Software crime scene
- * https://geospatial.trimble.com/en/industries/public-safety-and-forensics/crime-scene-investigation
+* Search : Software crime scene
+* https://geospatial.trimble.com/en/industries/public-safety-and-forensics/crime-scene-investigation
   * Shows a demo
   * In order to buy you have to have a work subcription or a dealer locator
   * Has resources
