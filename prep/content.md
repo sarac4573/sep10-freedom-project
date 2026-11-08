@@ -37,8 +37,8 @@ Topic: CSI (Crime Scene Investigator)
   * its portable so people can take it out their lab
   * cost around 1,000-2,000
   * small device that connects through a computer
-*https://pmc.ncbi.nlm.nih.gov/articles/PMC5724048/\
-*Machine learning enhanced virtual autopsy
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC5724048/\
+* Machine learning enhanced virtual autopsy
   * it examines dead body's without making surgical cuts
   * it helps investigators find injuries and other evidence
   * Not a machine but its a scanner software controlled by trained professionals
