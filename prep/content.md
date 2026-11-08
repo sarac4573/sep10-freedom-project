@@ -29,9 +29,24 @@ Topic: CSI (Crime Scene Investigator)
   * Shows options for products like software or hardware.
 
 ##### Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
-
+* https://nanoporetech.com/products/sequence/minion
+  * called a MinION
+  * a portable DNA sequencing device
+  * It reads DNA by passing DNA strands thorught tiny pores called nanopores
+  * It helps identifying individuals by analyzing their DNA
+  * its portable so people can take it out their lab
+  * cost around 1,000-2,000
+  * small device that connects through a computer
+*https://pmc.ncbi.nlm.nih.gov/articles/PMC5724048/\
+*Machine learning enhanced virtual autopsy
+  * it examines dead body's without making surgical cuts
+  * it helps investigators find injuries and other evidence
+  * Not a machine but its a scanner software controlled by trained professionals
+  * Alot of money up to 100,000-2 million depending on the forensics facility.
+* Forensic Microbiome Analysis
+  * Studies microrganisms like bacteria,viruses, and investigate causes of deat
+  * have buttins and touchcreens that allow scientist to control and test settings
+  * cost between 200-2,000
+  * determine whether bacteria or infections are contributed to someones death
 ## Part B: possible future technology
 
