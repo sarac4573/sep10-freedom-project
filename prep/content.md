@@ -38,7 +38,7 @@ Topic: CSI (Crime Scene Investigator)
   * Cost around 1,000-2,000
   * Small device that connects through a computer
 * https://pmc.ncbi.nlm.nih.gov/articles/PMC5724048/\
-* Machine learning enhanced virtual autopsy
+* <b>Machine learning enhanced virtual autopsy</b>
   * It examines dead body's without making surgical cuts
   * It helps investigators find injuries and other evidence
   * Not a machine but its a scanner software controlled by trained professionals
