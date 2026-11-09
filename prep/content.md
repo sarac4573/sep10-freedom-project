@@ -43,7 +43,7 @@ Topic: CSI (Crime Scene Investigator)
   * It helps investigators find injuries and other evidence
   * Not a machine but its a scanner software controlled by trained professionals
   * Alot of money up to 100,000-2 million depending on the forensics facility.
-* Forensic Microbiome Analysis
+* <b>Forensic Microbiome Analysis</b>
   * Studies microrganisms like bacteria,viruses, and investigate causes of deat
   * Has buttons and touchcreens that allow scientist to control and test settings
   * Cost between 200-2,000
