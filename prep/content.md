@@ -2,7 +2,7 @@
 Topic: CSI (Crime Scene Investigator) 
 
 ## Overview/Introduction/Context
-* Forensic science has changed overtime as technology has advanced. In the past, investigators use to mostly depend on physical evidence,fingerprints, photograhs and basic labatory testing to solve crimes. As computers and scienctific research improved, new technologies were developed to make investigators more accurate and effiecent. These improvements allowed forensics scientist to examine DNa, recreate crime scences, study migroorganisms, and use artifical intelligence to anaylze evidence.  
+* Forensic science has changed overtime as technology has advanced. In the past, investigators use to mostly depend on physical evidence,fingerprints, photograhs and basic labatory testing to solve crimes. As computers and scienctific research improved, new technologies were developed to make investigators more accurate and effiecent. These improvements allowed forensics scientists to examine DNA, recreate crime scences, study migroorganisms, and use artifical intelligence to anaylze evidence.  
 
 ## Part A: existing technology
 
