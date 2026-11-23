@@ -54,4 +54,15 @@ https://geospatial.trimble.com/en/industries/public-safety-and-forensics/crime-s
 
 
 ## Part B: possible future technology
+#### A software tech program that provides</i> Everything</i>
+* You put all the data/evidence and it sovles the crime for you
+* Identifys who and what happened
+* Identifys the persons family tree
+* Gives information about the persons personal info
+* Cost between 400-500 
+* Identifys persons allies
+* Keeps track of the suspects spending and bank accounts 
+* Freezes credit/debit cards
+* Provides suspect location
+
 
