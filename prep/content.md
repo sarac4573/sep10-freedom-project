@@ -54,7 +54,8 @@ https://geospatial.trimble.com/en/industries/public-safety-and-forensics/crime-s
 
 
 ## Part B: possible future technology
-#### A software tech program that provides</i> Everything</i>
+#### A software tech program that solves</i> Eveything</i>
+### Csi-Everything
 * You put all the data/evidence and it sovles the crime for you
 * Identifys who and what happened
 * Identifys the persons family tree
@@ -64,5 +65,5 @@ https://geospatial.trimble.com/en/industries/public-safety-and-forensics/crime-s
 * Keeps track of the suspects spending and bank accounts 
 * Freezes credit/debit cards
 * Provides suspect location
-
+#### An app that 
 
